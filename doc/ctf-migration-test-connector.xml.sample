@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(ctf-migration-test:greet) -->
+    <ctf-migration-test:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(ctf-migration-test:greet) -->
