@@ -1,17 +1,17 @@
-package org.mule.modules.ctfmigrationtest.automation.functional;
+package org.mule.modules.helloworld.automation.functional;
 
 import static org.junit.Assert.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.mule.modules.ctfmigrationtest.CTFMigrationTestConnector;
+import org.mule.modules.helloworld.HelloWorldConnector;
 import org.mule.tools.devkit.ctf.junit.AbstractTestCase;
 
 public class GreetTestCases extends
-		AbstractTestCase<CTFMigrationTestConnector> {
+		AbstractTestCase<HelloWorldConnector> {
 
 	public GreetTestCases() {
-		super(CTFMigrationTestConnector.class);
+		super(HelloWorldConnector.class);
 	}
 
 	@Before

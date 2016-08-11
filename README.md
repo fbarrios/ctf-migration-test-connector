@@ -1,4 +1,4 @@
-# CTFMigrationTest Anypoint Connector
+# Mule Hello World Connector
 
 [Connector description including destination service or application with]
 
@@ -27,8 +27,8 @@ For released connectors you can download them from the update site in Anypoint S
 Open Anypoint Studio, go to Help → Install New Software and select Anypoint Connectors Update Site where you’ll find all avaliable connectors.
 
 #Usage
-For information about usage our documentation at http://github.com/mulesoft/ctf-migration-test.
+For information about usage our documentation at https://github.com/fbarrios/hello-world-connector.
 
 # Reporting Issues
 
-We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link http://github.com/mulesoft/ctf-migration-test/issues.
+We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link https://github.com/fbarrios/hello-world-connector/issues.

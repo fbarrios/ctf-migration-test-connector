@@ -1,4 +1,4 @@
-package org.mule.modules.ctfmigrationtest.config;
+package org.mule.modules.helloworld.config;
 
 import org.mule.api.annotations.components.Configuration;
 import org.mule.api.annotations.Configurable;

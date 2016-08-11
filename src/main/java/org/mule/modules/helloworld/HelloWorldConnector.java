@@ -1,13 +1,13 @@
-package org.mule.modules.ctfmigrationtest;
+package org.mule.modules.helloworld;
 
 import org.mule.api.annotations.Config;
 import org.mule.api.annotations.Connector;
 import org.mule.api.annotations.Processor;
 
-import org.mule.modules.ctfmigrationtest.config.ConnectorConfig;
+import org.mule.modules.helloworld.config.ConnectorConfig;
 
-@Connector(name = "ctf-migration-test", friendlyName = "CTFMigrationTest")
-public class CTFMigrationTestConnector {
+@Connector(name = "hello-world", friendlyName = "HelloWorldConnector")
+public class HelloWorldConnector {
 
     @Config
     ConnectorConfig config;
